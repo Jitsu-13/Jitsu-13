@@ -1,5 +1,8 @@
+<img align="left" height=300px width=100% src="https://camo.githubusercontent.com/2bc046681bc26e0df34b79735f01214d59501e9e40188b2ead7ded871f378b82/68747470733a2f2f632e74656e6f722e636f6d2f47566b346a4232755f693841414141642f636f64696e672e676966">
+
 <h1 align="center">Hi 👋, I'm Sujit Yadav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<p>I am a Java Backend Developer with strong analytical and creative skills. Proficient at troubleshooting and implementing simple and complex issues, and implementing new features based on user feedback.</p>
 <img align="right" alt="coding" width=400px src="https://camo.githubusercontent.com/a3f97dcf5c29260a6cec5a6b99d5795c2718d7840f19e4e0766a554f137962d8/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313030302f312a4d474a3453552d4f70426b665044576b737847306a512e6a706567">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitsu-13&label=Profile%20views&color=0e75b6&style=flat" alt="jitsu-13" /> </p>
 
