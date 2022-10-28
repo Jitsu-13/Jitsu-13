@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Core Java, RDBMS, and JDBC**
 
-- 👨‍💻 All of my projects are available at [www.1Sath.in](www.1Sath.in)
+- 👨‍💻 All of my projects are available at [https://jitsu-13.github.io/](https://jitsu-13.github.io/)
 
 - 💬 Ask me about **Java, Mysql, Web3 etc.**
 
